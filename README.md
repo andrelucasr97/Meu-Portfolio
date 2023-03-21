@@ -18,7 +18,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O portfólio desenvolvido com minhas informações e contatos.
 
-- [Acesse o projeto finalizado, online](https://andrelucasr97.github.io/meuportfolio)
 
 
 ## :memo: Licença
